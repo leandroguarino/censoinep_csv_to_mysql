@@ -1,0 +1,15 @@
+{
+  "name": "censoinep",
+  "version": "1.0.0",
+  "description": "Script para inserir no MySQL os dados do Censo da Educação Superior do INEP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Guarino (www.leandroguarino.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "mysql": "^2.18.1"
+  }
+}
