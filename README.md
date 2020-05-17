@@ -126,7 +126,7 @@ CREATE TABLE `cursos` (
 ) ENGINE=InnoDB AUTO_INCREMENT=719593 DEFAULT CHARSET=latin1;
 
 ## Não se esqueça
-É necessário alterar os dados de coneão com o banco de dados no início do arquivo **insert_cursos_batch.js**.
+É necessário alterar os dados de conexão com o banco de dados no início do arquivo **insert_cursos_batch.js**.
 
 ## Para executar
 ```
